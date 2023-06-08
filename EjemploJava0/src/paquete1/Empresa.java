@@ -18,6 +18,8 @@ public class Empresa {
     private double costoVehiculos;
     private double costoTotalBienes;
     
+    
+    
     public void establecerNombre(String m){
         nombre = m;
     }

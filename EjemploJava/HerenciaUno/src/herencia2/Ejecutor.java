@@ -28,8 +28,8 @@ public class Ejecutor {
                 + "Apellidos: %s\n"
                 + "Identificación: %s\n"
                 + "Edad: %d\n"
-                + "Número de crédito: %d\n"
-                + "Costo Crédito: %.1f\n"
+                + "Número de asignaturas: %d\n"
+                + "Costo asignatura: %.1f\n"
                 + "Costo matrícula: %.1f\n",
                 e1.obtenerNombresEstudiante(),
                 e1.obtenerApellidoEstudiante(),
